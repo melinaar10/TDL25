@@ -1,0 +1,1 @@
+"ls" para listar el directorio actual (ver los archivos o carpetas que hay en la carpeta actual)
